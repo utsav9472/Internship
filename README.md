@@ -4,12 +4,12 @@ background :student<br>
 
 i joined this internship for skill devlopment
  <br>
- overview
-     first 15 days
+ overview<br>
+     first 15 days<br>
              basic of fullstack
-    next 15 days
+  <br>  next 15 days <br>
             demo project
-    next 1.5 months :
+   <br> next 1.5 months :<br>
            work on live project
-    last 15 days :
+   <br> last 15 days :
            work on college project
