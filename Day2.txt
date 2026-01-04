@@ -1,0 +1,20 @@
+  Task 1
+  Understand Application Flow
+👉 Write in your own words:
+What happens when a user submits a form
+
+ Task 2
+ MVC vs API (Very Important)
+Understand:
+MVC: Route → Controller → Model → View
+API: Frontend → API → Database → API → Frontend
+👉 Write 2 differences.
+
+ Task 3
+Simple Architecture Diagram
+Draw a basic flow:
+Browser → Backend → Database → Backend → Browser
+Handwritten or digital is fine.
+
+Task 4
+ GitHub Update
